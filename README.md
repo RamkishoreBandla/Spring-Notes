@@ -39,3 +39,7 @@ class level or method level
 
 @Autowire
 @Qualifier(serverA) when you have multiple implpemetations on same interface
+
+
+Integer[] arr ={1,2,3,4,5,6};
+        List<Integer> arrays = Arrays.asList(arr);
